@@ -1,0 +1,1 @@
+En la siguiente guía aprenderemos los elementos básicos de HTML5 para poder hacer un curriculum
