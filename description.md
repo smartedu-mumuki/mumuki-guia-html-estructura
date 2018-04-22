@@ -1,1 +1,1 @@
-En la siguiente guía aprenderemos los elementos básicos de HTML5 para poder hacer un curriculum
+En la siguiente guía aprenderemos los elementos básicos de HTML5 para poder hacer un curriculum con el objetivo de que con todo lo que aprendimos hasta ahora, nos permita convertir un diseño en una maqueta  HTML:sunglasses:. Manos a la obra!!!
