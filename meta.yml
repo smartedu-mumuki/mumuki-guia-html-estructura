@@ -7,10 +7,10 @@ teacher_info: ''
 language: html
 id_format: "%05d"
 order:
+- 7
+- 4
 - 1
 - 2
 - 3
-- 4
-- 5
 - 6
-- 7
+- 5
