@@ -1,0 +1,1 @@
+<img src="https://raw.githubusercontent.com/smartedu-mumuki/mumuki-guia-html-estructura/master/images/CV-parts_1524525857647.jpg" alt="CV-parts_1524525857647.jpg" width="500px" height="auto">
