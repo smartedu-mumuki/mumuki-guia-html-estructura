@@ -13,7 +13,7 @@
      </br>
      <p>Para eso vamos empezar por diseñar nuestro curriculum, en nuestro caso elegimos el curriculum de Jose Perez, y como primer paso para comenzar esta guía, recortaremos nuestro diseño identificando las distintas partes que lo componen.</p>
      </br>
-     <p>Manos a la obra!!! :muscle:</p>
+     <p>Manos a la obra!!!</p>
     </div>
   </div>
 </div>
