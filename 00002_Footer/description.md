@@ -13,13 +13,4 @@ El tag `<footer>` por lo general contiene:
 * Redes sociales
 
 Ejercicio:
-> Veamos cómo se crea el footer; Escribí en el cuadro de la derecha lo siguiente:
->
-> ```html
-> <!DOCTYPE html>
-> <html>
->  <body>
->   <footer> 
->   </footer>
->  </body>
-> </html>
+> Agregá un footer con un link a tu email

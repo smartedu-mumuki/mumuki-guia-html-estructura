@@ -6,3 +6,9 @@ expectations:
   inspection: DeclaresTag:body
 - binding: body
   inspection: DeclaresTag:footer
+- binding: body
+  inspection: DeclaresTag:footer
+- binding: body/footer
+  inspection: DeclaresTag:a
+- binding: body/footer/a
+  inspection: DeclaresAttribute:href
