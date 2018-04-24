@@ -11,4 +11,4 @@ expectations:
 - binding: aside
   inspection: DeclaresTag:img
 - binding: aside/img
-  inspection: DeclaresAttribute:href="https://central.classroom.mumuki.io/images/avatar.svg"
+  inspection: DeclaresAttribute:src="https://central.classroom.mumuki.io/images/avatar.svg"
