@@ -6,8 +6,6 @@ Un tag `<header>` por lo general contiene:
 * Logotipo o icono
 * Información de autoría
 
-Nuestro sitio puede tener varios tags `<header>` en el mismo documento. (No es lo más recomendable para el posicionamiento SEO de nuestro sitio)
-
 **Nota:** El tag `<header>` no puede estar dentro de los tags `<footer>`, `<address>` o dentro de otro tag `<header>`.
 
 Ejercicio:
