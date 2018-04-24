@@ -1,4 +1,4 @@
-Le tag `<figure>` especifica el contenido que hay dentro sí misma, como ilustraciones, diagramas, fotos, listados de código, etc.
+El tag `<figure>` especifica el contenido que hay dentro sí misma, como ilustraciones, diagramas, fotos, listados de código, etc.
 
 ``` html
 <figure>
