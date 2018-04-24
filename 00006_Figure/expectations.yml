@@ -6,3 +6,11 @@ expectations:
   inspection: DeclaresTag:body
 - binding: body
   inspection: DeclaresTag:figure
+- binding: body
+  inspection: DeclaresTag:aside
+- binding: aside
+  inspection: DeclaresTag:figure
+- binding: aside/figure
+  inspection: DeclaresTag:img
+- binding: aside/figure/img
+  inspection: DeclaresAttribute:src="https://central.classroom.mumuki.io/images/avatar.svg"
