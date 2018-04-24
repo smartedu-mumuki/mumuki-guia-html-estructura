@@ -8,14 +8,4 @@ Un tag `<header>` por lo general contiene:
 
 **Nota:** El tag `<header>` no puede estar dentro de los tags `<footer>`, `<address>` o dentro de otro tag `<header>`.
 
-Ejercicio:
-> Veamos cómo se crea el header; Escribí en el cuadro de la derecha lo siguiente:
->
-> ```html
-> <!DOCTYPE html>
-> <html>
->  <body>
->   <header> 
->   </header>
->  </body>
-> </html>
+> Agregá un `<header>` con tu nombre y apellido.
