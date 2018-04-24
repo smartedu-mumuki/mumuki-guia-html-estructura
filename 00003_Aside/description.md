@@ -5,6 +5,6 @@ Además el `<aside>` nos permite no solo agrupar, sino que también ayuda a que 
 > Luego del `<header>` agregá un tag `<aside>` que tenga la siguiente imagen dentro:
 >
 > ```html
-> <img src="https://central.classroom.mumuki.io/images/avatar.svg" alt="" width="auto" height="auto">
+> <img src="https://central.classroom.mumuki.io/images/avatar.svg" alt="" width="200px" height="auto">
 >```
 
