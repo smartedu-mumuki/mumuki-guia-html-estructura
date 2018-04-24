@@ -6,6 +6,4 @@ Un tag `<header>` por lo general contiene:
 * Logotipo o icono
 * Información de autoría
 
-**Nota:** El tag `<header>` no puede estar dentro de los tags `<footer>`, `<address>` o dentro de otro tag `<header>`.
-
 > Agregá un `<header>` con tu nombre y apellido.
