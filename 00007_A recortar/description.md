@@ -1,8 +1,8 @@
-<div class="">
-  <img src="https://raw.githubusercontent.com/smartedu-mumuki/mumuki-guia-html-estructura/master/images/CV-parts_1524525857647.jpg" alt="CV-parts_1524525857647.jpg" width="350px" height="auto" style="float:left;margin-right:20px;">
+<div class="text-align:center; vertical-align:middle;">
+  <img src="https://raw.githubusercontent.com/smartedu-mumuki/mumuki-guia-html-estructura/master/images/CV-parts_1524525857647.jpg" alt="CV-parts_1524525857647.jpg" width="350px" height="auto">
 </div>
 
-El objetivo de esta primera lectura, es que simplemente podamos observar el diseño y que por un momento no vean el diseño como un todo, sino que se imaginen que cada parte de nuestro diseño es una caja.</p>
+El objetivo de esta primera lectura, es que simplemente podamos observar el diseño y que por un momento no vean el diseño como un todo, sino que se imaginen que cada parte de nuestro diseño es una caja.
 
 Ahora que encontramos las cajas, mencionemos las diferentes partes que podemos identificar a simple vista como por ejemplo:
 
