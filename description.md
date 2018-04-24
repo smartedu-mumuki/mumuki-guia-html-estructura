@@ -1,7 +1,7 @@
 <div style="text-align:center; vertical-align:middle;"> 
-  <img src="https://raw.githubusercontent.com/smartedu-mumuki/mumuki-guia-html-estructura/master/images/CV_1524432992193.jpg" alt="CV_1524432992193.jpg" width="100" height="auto">
+  <img src="https://raw.githubusercontent.com/smartedu-mumuki/mumuki-guia-html-estructura/master/images/CV_1524432992193.jpg" alt="CV_1524432992193.jpg" width="300px" height="auto">
   
-  <img src="https://raw.githubusercontent.com/smartedu-mumuki/mumuki-guia-html-estructura/master/images/CV-parts_1524433061902.jpg" alt="CV-parts_1524433061902.jpg" width="100" height="auto">
+  <img src="https://raw.githubusercontent.com/smartedu-mumuki/mumuki-guia-html-estructura/master/images/CV-parts_1524433061902.jpg" alt="CV-parts_1524433061902.jpg" width="300px" height="auto">
 </div>
 
 
