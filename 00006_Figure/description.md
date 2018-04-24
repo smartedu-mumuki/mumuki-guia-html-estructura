@@ -1,6 +1,6 @@
 Le tag `<figure>` especifica el contenido que hay dentro sí misma, como ilustraciones, diagramas, fotos, listados de código, etc.
 
-``` lenguaje
+``` html
 <figure>
   <img src="img_golondrina.jpg" alt="La Golondrina"
   width="300" height="200">
