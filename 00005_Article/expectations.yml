@@ -5,4 +5,10 @@ expectations:
 - binding: html
   inspection: DeclaresTag:body
 - binding: body
+  inspection: DeclaresTag:header
+- binding: body
+  inspection: DeclaresTag:aside
+- binding: body/aside
+  inspection: DeclaresTag:img
+- binding: body
   inspection: DeclaresTag:article

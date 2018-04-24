@@ -1,6 +1,6 @@
 El tag `<article>` especifica el contenido independiente, autónomo del resto del sitio.
 
-Un `<article>` debe tener sentido por sí mismo y debería ser posible distribuirse de forma independiente del resto del sitio, teniendo así su propio peso semantico.
+Un `<article>` debe tener sentido por sí mismo y debería ser posible mostrarse de forma independiente del resto del sitio.
 
 Las fuentes potenciales para el elemento `<article>`:
 
@@ -9,14 +9,4 @@ Las fuentes potenciales para el elemento `<article>`:
 * Noticias
 * Comentarios
 
-Ejercicio:
-> Veamos cómo se crea el article; Escribí en el cuadro de la derecha lo siguiente:
->
-> ```html
-> <!DOCTYPE html>
-> <html>
->  <body>
->   <article> 
->   </article>
->  </body>
-> </html>
+> Agregá un article Luego del `<aside>`. El mismo debe contener un texto contando que edad tenés y por qué te interesa la programación.
