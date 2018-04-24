@@ -1,8 +1,0 @@
----
-expectations:
-- binding: "*"
-  inspection: DeclaresTag:html
-- binding: html
-  inspection: DeclaresTag:body
-- binding: body
-  inspection: DeclaresTag:nav

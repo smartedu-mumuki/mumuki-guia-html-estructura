@@ -6,3 +6,5 @@ expectations:
   inspection: DeclaresTag:body
 - binding: body
   inspection: DeclaresTag:aside
+- binding: body
+  inspection: DeclaresTag:header
