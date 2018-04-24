@@ -12,7 +12,7 @@ El tag `<figure>` especifica que el contenido que hay dentro sí misma es uno de
 </figure>
 ```
 
-Mientras que el contenido del tag `<figure>` está relacionado con el flujo principal, su posición es independiente del sitio, y si es eliminado no afecta el documento ya que solo lo contiene.
+Mientras que el contenido del tag `<figure>` está relacionado con el flujo principal, su posición es independiente del sitio, y si es eliminado no afecta a su contenido.
 
 > Agregá un tag `<figure>` que envuelva a la imagen dentro del `<aside>`. 
 
