@@ -12,3 +12,5 @@ expectations:
   inspection: DeclaresTag:img
 - binding: aside/img
   inspection: DeclaresAttribute:src="https://central.classroom.mumuki.io/images/avatar.svg"
+- binding: aside/img
+  inspection: DeclaresAttribute:width="200px"
