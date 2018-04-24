@@ -8,3 +8,7 @@ expectations:
   inspection: DeclaresTag:aside
 - binding: body
   inspection: DeclaresTag:header
+- binding: aside
+  inspection: DeclaresTag:img
+- binding: aside/img
+  inspection: DeclaresAttribute:href="https://central.classroom.mumuki.io/images/avatar.svg"
