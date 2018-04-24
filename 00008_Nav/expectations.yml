@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: html
+- binding: "*"
   inspection: DeclaresTag:html
 - binding: html
   inspection: DeclaresTag:body
