@@ -1,4 +1,4 @@
-El tag `<aside>` es otro de los nuevos tags de HTML5 y se creo en respuesta a la necesidad de organizar semanticamente aquellas áreas del sitio donde tendremos agrupado nuestro menú de navegación.
+El tag `<aside>` es otro de los nuevos tags de HTML5 y se creo en respuesta a la necesidad de organizar semanticamente aquellas áreas del sitio donde tendremos agrupado nuestro menú o en nuestro caso una imagen.
 
 Además el `<aside>` nos permite no solo agrupar, sino que también ayuda a que podamos identicar nuestro menú rapidamente e incorporar comportamientos especiales en dispositivos móviles.
 
