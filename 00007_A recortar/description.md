@@ -1,5 +1,5 @@
-<div style="float:left;margin-right:20px;">
-  <img src="https://raw.githubusercontent.com/smartedu-mumuki/mumuki-guia-html-estructura/master/images/CV-parts_1524525857647.jpg" alt="CV-parts_1524525857647.jpg" width="350px" height="auto">
+<div style="float: left;margin-right: 40px;">
+  <img src="https://raw.githubusercontent.com/smartedu-mumuki/mumuki-guia-html-estructura/master/images/CV-parts_1524525857647.jpg" alt="CV-parts_1524525857647.jpg" width="340px" height="auto">
 </div>
 
 El objetivo de esta primera lectura, es que simplemente podamos observar el diseño y que por un momento no vean el diseño como un todo, sino que se imaginen que cada parte de nuestro diseño es una caja.
