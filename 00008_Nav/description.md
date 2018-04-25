@@ -5,6 +5,7 @@ Tengan en cuenta que no todos los enlaces de un documento deben estar dentro de 
 <b>Nota:</b> Navegadores, tales como lectores de pantalla para usuarios con discapacidad, pueden utilizar este elemento para determinar si se debe omitir la prestación inicial de este contenido.
 
 > Agregá un tag `<nav>` debajo de nuestro `<header>` y crea dentro una lista con 3 enlaces 
+
 > * Perfil
 > * Formación
 > * Experiencia
