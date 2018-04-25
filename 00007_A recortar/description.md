@@ -1,4 +1,4 @@
-<div class="text-align:center; vertical-align:middle;">
+<div class="text-align:center; vertical-align:middle; float:left;">
   <img src="https://raw.githubusercontent.com/smartedu-mumuki/mumuki-guia-html-estructura/master/images/CV-parts_1524525857647.jpg" alt="CV-parts_1524525857647.jpg" width="350px" height="auto">
 </div>
 
