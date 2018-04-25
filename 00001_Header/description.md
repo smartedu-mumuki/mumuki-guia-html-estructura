@@ -1,5 +1,5 @@
 Ya tenemos nuestro contenedor `<section>`, entonces vamos a crear el resto de los tags.
-El `<header>` es el tag que representa el área que se utiliza para agrupar el contenido de introducción o un conjunto de enlaces de navegación (`<navbar>`).
+El `<header>` es el tag que representa el área que se utiliza para agrupar el contenido de introducción o un conjunto de enlaces de navegación (`<nav>`).
 
 Un tag `<header>` por lo general contiene:
 
