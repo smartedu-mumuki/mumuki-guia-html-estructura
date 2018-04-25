@@ -6,5 +6,5 @@ expectations:
   inspection: DeclaresTag:body
 - binding: body
   inspection: DeclaresTag:header
-- binding: header
+- binding: body
   inspection: DeclaresTag:nav
