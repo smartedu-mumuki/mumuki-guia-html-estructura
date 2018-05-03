@@ -8,3 +8,9 @@ expectations:
   inspection: DeclaresTag:header
 - binding: body
   inspection: DeclaresTag:nav
+- binding: body/nav
+  inspection: DeclaresTag:ul
+- binding: body/nav/ul
+  inspection: DeclaresTag:li
+- binding: body/nav/ul/li
+  inspection: DeclaresTag:a
