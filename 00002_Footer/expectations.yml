@@ -6,7 +6,7 @@ expectations:
   inspection: DeclaresTag:body
 - binding: body/section
   inspection: DeclaresTag:footer
-- binding: body/sectio
+- binding: body
   inspection: DeclaresTag:footer
 - binding: body/section/footer
   inspection: DeclaresTag:a
