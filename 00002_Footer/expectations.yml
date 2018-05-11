@@ -4,11 +4,11 @@ expectations:
   inspection: DeclaresTag:html
 - binding: html
   inspection: DeclaresTag:body
-- binding: body
+- binding: body/section
   inspection: DeclaresTag:footer
-- binding: body
+- binding: body/sectio
   inspection: DeclaresTag:footer
-- binding: body/footer
+- binding: body/section/footer
   inspection: DeclaresTag:a
-- binding: body/footer/a
+- binding: body/section/footer/a
   inspection: DeclaresAttribute:href
