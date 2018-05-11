@@ -4,11 +4,11 @@ expectations:
   inspection: DeclaresTag:html
 - binding: html
   inspection: DeclaresTag:body
-- binding: body
+- binding: body/section
   inspection: DeclaresTag:header
-- binding: body
+- binding: body/section
   inspection: DeclaresTag:aside
-- binding: body/aside
+- binding: body/section/aside
   inspection: DeclaresTag:img
-- binding: body
+- binding: body/section
   inspection: DeclaresTag:article
