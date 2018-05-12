@@ -5,8 +5,6 @@ expectations:
 - binding: html
   inspection: DeclaresTag:body
 - binding: body
-  inspection: DeclaresTag:figure
-- binding: body
   inspection: DeclaresTag:aside
 - binding: aside
   inspection: DeclaresTag:figure
@@ -14,3 +12,19 @@ expectations:
   inspection: DeclaresTag:img
 - binding: aside/figure/img
   inspection: DeclaresAttribute:src="https://central.classroom.mumuki.io/images/avatar.svg"
+- binding: body/section
+  inspection: DeclaresTag:header
+- binding: body/section
+  inspection: DeclaresTag:aside
+- binding: body/section/aside
+  inspection: DeclaresTag:img
+- binding: body/section
+  inspection: DeclaresTag:article
+- binding: body/section
+  inspection: DeclaresTag:nav
+- binding: body/section/nav
+  inspection: DeclaresTag:ul
+- binding: body/section/nav/ul
+  inspection: DeclaresTag:li
+- binding: body/section/nav/ul/li
+  inspection: DeclaresTag:a
