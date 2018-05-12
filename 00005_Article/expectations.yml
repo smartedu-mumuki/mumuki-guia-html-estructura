@@ -20,4 +20,3 @@ expectations:
   inspection: DeclaresTag:li
 - binding: body/section/nav/ul/li
   inspection: DeclaresTag:a
-
