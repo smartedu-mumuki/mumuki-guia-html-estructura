@@ -19,8 +19,6 @@ expectations:
 - binding: body/section/aside
   inspection: DeclaresTag:img
 - binding: body/section
-  inspection: DeclaresTag:article
-- binding: body/section
   inspection: DeclaresTag:nav
 - binding: body/section/nav
   inspection: DeclaresTag:ul
