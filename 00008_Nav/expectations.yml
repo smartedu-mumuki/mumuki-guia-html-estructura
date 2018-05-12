@@ -4,13 +4,13 @@ expectations:
   inspection: DeclaresTag:html
 - binding: html
   inspection: DeclaresTag:body
-- binding: body
+- binding: body/section
   inspection: DeclaresTag:header
-- binding: body
+- binding: body/section
   inspection: DeclaresTag:nav
-- binding: body/section/header/nav
+- binding: body/section/nav
   inspection: DeclaresTag:ul
-- binding: body/section/header/nav/ul
+- binding: body/section/nav/ul
   inspection: DeclaresTag:li
-- binding: body/section/header/nav/ul/li
+- binding: body/section/nav/ul/li
   inspection: DeclaresTag:a
