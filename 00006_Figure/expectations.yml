@@ -18,11 +18,3 @@ expectations:
   inspection: DeclaresTag:aside
 - binding: body/section/aside
   inspection: DeclaresTag:img
-- binding: body/section
-  inspection: DeclaresTag:nav
-- binding: body/section/nav
-  inspection: DeclaresTag:ul
-- binding: body/section/nav/ul
-  inspection: DeclaresTag:li
-- binding: body/section/nav/ul/li
-  inspection: DeclaresTag:a
