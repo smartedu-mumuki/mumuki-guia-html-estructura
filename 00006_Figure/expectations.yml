@@ -13,8 +13,6 @@ expectations:
 - binding: aside/figure/img
   inspection: DeclaresAttribute:src="https://central.classroom.mumuki.io/images/avatar.svg"
 - binding: body/section
-  inspection: DeclaresTag:header
-- binding: body/section
   inspection: DeclaresTag:aside
 - binding: body/section/aside
   inspection: DeclaresTag:img
