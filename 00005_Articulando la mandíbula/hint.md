@@ -1,0 +1,1 @@
+En este caso, cada receta está dada por un `<h1>` y un `<p>`. :wink:
