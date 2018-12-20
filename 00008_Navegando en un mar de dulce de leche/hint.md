@@ -1,1 +1,1 @@
-Recordá que a los enlaces internos les decíamos que tienen que ir a un fragmento de nuestra página web utilizando el símbolo `#` antes del nombre con el que identificamos al fragmento.
+Recordá que a los enlaces `<a>` internos les decíamos que tienen que ir a un fragmento de nuestra página web mediante el atributo `href` y utilizando el símbolo `#` antes del nombre con el que identificamos al fragmento.
