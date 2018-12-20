@@ -3,7 +3,7 @@
 
 This content is distributed under Creative Commons License Share-Alike, 4.0. [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0)
 
-Copyright Agustín Pina, Nicolás Pessolani, Rocío Gonzalez and contributors
+Copyright Rocío Gonzalez, Agustín Pina, Nicolás Pessolani and contributors
 
 This content consists of voluntary contributions made by many
 individuals. For exact contribution history, see its revision history
