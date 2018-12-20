@@ -1,0 +1,14 @@
+---
+expectations:
+- binding: html/body
+  inspection: DeclaresTag:nav
+- binding: html/body/nav
+  inspection: DeclaresTag:ul
+- binding: html/body/nav/ul
+  inspection: DeclaresTag:li
+- binding: html/body/nav/ul/li
+  inspection: DeclaresAttribute:href="#descripcion"
+- binding: html/body/nav/ul/li
+  inspection: DeclaresAttribute:href="#ingredientes"
+- binding: html/body/nav/ul/li
+  inspection: DeclaresAttribute:href="#pasos"

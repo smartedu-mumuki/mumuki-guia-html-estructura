@@ -1,0 +1,1 @@
+Pero entonces, ¿sin el `<nav>` la navegación no funciona? :thought_balloon: Sí funciona, pero agregando esa etiqueta le estamos dando **semántica**, es decir, un significado a esa parte que agregamos. :wink:
