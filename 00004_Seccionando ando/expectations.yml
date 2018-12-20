@@ -8,5 +8,3 @@ expectations:
   inspection: DeclaresAttribute:id="ingredientes"
 - binding: html/body/section
   inspection: DeclaresAttribute:id="pasos"
-- binding: html/body
-  inspection: DeclaresTag:header
