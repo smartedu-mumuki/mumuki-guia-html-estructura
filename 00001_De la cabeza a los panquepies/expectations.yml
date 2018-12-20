@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: html/body
+  inspection: DeclaresTag:header
+- binding: html/body/header
+  inspection: DeclaresTag:h1
+- binding: html/body/header
+  inspection: DeclaresTag:p
