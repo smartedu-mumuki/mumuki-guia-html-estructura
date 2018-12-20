@@ -2,7 +2,7 @@ Ya pusimos por vos los ingredientes y los pasos necesarios de la receta así que
 
 Ya pusimos el contenido dentro de la respectiva sección pero falta una foto, ¿no? :camera: 
 
-> Agregá esto debajo de los párrafos de la sección _descripción_:
+> Agregá esto, debajo de los párrafos de la sección _descripción_:
 >  
 ``` html
 <figure> 

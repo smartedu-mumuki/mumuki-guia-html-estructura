@@ -1,0 +1,1 @@
+La etiqueta `<aside>` agrupa _contenidos laterales_ al principal: que estén allí o no, no cambia la esencia de nuestra página. La usamos típicamente para encerrar bloques publicitarios, citas o enlaces externos relacionados. :relaxed:

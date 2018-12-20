@@ -1,0 +1,20 @@
+---
+expectations:
+- binding: html/body
+  inspection: DeclaresTag:header
+- binding: html/body
+  inspection: DeclaresTag:nav
+- binding: html/body/section
+  inspection: DeclaresAttribute:id="descripcion"
+- binding: html/body/section
+  inspection: DeclaresAttribute:id="ingredientes"
+- binding: html/body/section
+  inspection: DeclaresAttribute:id="pasos"
+- binding: html/body/section
+  inspection: DeclaresTag:aside
+- binding: html/body/section/aside
+  inspection: DeclaresTag:h3
+- binding: html/body/section/aside
+  inspection: DeclaresTag:iframe
+- binding: html/body/section/aside/iframe
+  inspection: DeclaresAttribute:src="https://www.youtube.com/embed/dnfw9e0Mo2w"
