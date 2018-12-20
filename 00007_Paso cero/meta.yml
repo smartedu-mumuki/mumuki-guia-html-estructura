@@ -1,0 +1,21 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: '"Lemon pie" es un título'
+  checked: true
+- value: '"Descripción" es una barra de navegación'
+  checked: false
+- value: '"Copyright Mumuki" es un pie de página'
+  checked: true
+- value: El video de cómo hacer galletitas está muy relacionado con la receta de un
+    Lemon Pie
+  checked: false
+- value: '"Pasos" e "Ingredientes" son cajas diferentes'
+  checked: true
+name: Paso cero
