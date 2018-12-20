@@ -1,9 +1,3 @@
-<div style="text-align:center; vertical-align:middle;"> 
-  <img src="https://raw.githubusercontent.com/smartedu-mumuki/mumuki-guia-html-estructura/master/images/CV-parts_1524433061902.jpg" alt="CV-parts_1524433061902.jpg" width="300px" height="auto">
-</div>
+Ya aprendimos las herramientas básicas para crear cosas en HTML pero… ¡está todo suelto! :sweat_smile: En esta guía veremos cómo darle _estructura_  a nuestro contenido en una página web de la mano de una receta. :yum:
 
-En la siguiente guía aprenderemos los elementos básicos de <b>HTML5</b> para poder crear un curriculum.
-
-Para eso vamos empezar por diseñar nuestro curriculum, en nuestro caso elegimos el curriculum de Jose Perez, y como primer paso para comenzar esta guía, recortaremos nuestro diseño identificando las distintas partes que lo componen.
-
-¡Manos a la obra!
+¡Manos a la obra! … ¿o a la masa? :stuck_out_tongue_closed_eyes:
