@@ -1,0 +1,18 @@
+---
+expectations:
+- binding: html/body
+  inspection: DeclaresTag:header
+- binding: html/body
+  inspection: DeclaresTag:nav
+- binding: html/body/section
+  inspection: DeclaresAttribute:id="descripcion"
+- binding: html/body/section
+  inspection: DeclaresAttribute:id="ingredientes"
+- binding: html/body/section
+  inspection: DeclaresAttribute:id="pasos"
+- binding: html/body
+  inspection: DeclaresTag:aside
+- binding: html/body
+  inspection: DeclaresTag:footer
+- binding: html/body/footer
+  inspection: DeclaresTag:a
