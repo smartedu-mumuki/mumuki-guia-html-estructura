@@ -12,3 +12,11 @@ expectations:
   inspection: DeclaresAttribute:href="#ingredientes"
 - binding: html/body/nav/ul/li/a
   inspection: DeclaresAttribute:href="#pasos"
+- binding: html/body
+  inspection: DeclaresTag:header
+- binding: html/body/section
+  inspection: DeclaresAttribute:id="descripcion"
+- binding: html/body/section
+  inspection: DeclaresAttribute:id="ingredientes"
+- binding: html/body/section
+  inspection: DeclaresAttribute:id="pasos"
