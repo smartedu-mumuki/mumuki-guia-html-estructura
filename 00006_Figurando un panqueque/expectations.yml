@@ -15,4 +15,4 @@ expectations:
 - binding: html/body/section
   inspection: DeclaresAttribute:id="ingredientes"
 - binding: html/body/section
-  inspection: DeclaresAttribute:pasos
+  inspection: DeclaresAttribute:id="pasos"
