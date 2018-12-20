@@ -8,5 +8,3 @@ expectations:
   inspection: DeclaresAttribute:src="https://raw.githubusercontent.com/smartedu-mumuki/mumuki-guia-html-estructura/master/images/panqueques.jpg"
 - binding: html/body/section/figure/img
   inspection: DeclaresAttribute:alt="Panqueques"
-- binding: html/body/section/figure/img
-  inspection: DeclaresAttribute:width=30%
