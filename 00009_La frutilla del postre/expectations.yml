@@ -42,5 +42,5 @@ expectations:
   inspection: DeclaresTag:footer
 - binding: html/body/footer
   inspection: DeclaresTag:p
-- binding: html/body/footer/
+- binding: html/body/footer
   inspection: DeclaresTag:em
