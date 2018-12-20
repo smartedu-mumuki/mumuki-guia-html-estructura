@@ -1,0 +1,1 @@
+Viste eso, ¿no? :eyes: Apareció una nueva etiqueta `<figure>`, que sirve para acompañar e ilustrar al texto, encerrando en ella una imagen, una ilustración, un diagrama o hasta un fragmento de código. 
