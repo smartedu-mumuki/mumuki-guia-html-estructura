@@ -4,7 +4,7 @@ Sí podríamos decir que esta idea “toca de costado” nuestra receta :smirk:.
 
 _¿Y ahora quién podrá ayudarnos :scream:? Yooooo, la etiqueta `<aside>`._ :stuck_out_tongue_closed_eyes:
 
-> Copiá este código al final de la sección _pasos_ pero dentro de ella:
+> Copiá este código justo después de la sección _pasos_:
 >
 ```hml
 <aside>

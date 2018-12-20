@@ -10,11 +10,11 @@ expectations:
   inspection: DeclaresAttribute:id="ingredientes"
 - binding: html/body/section
   inspection: DeclaresAttribute:id="pasos"
-- binding: html/body/section
+- binding: html/body/
   inspection: DeclaresTag:aside
-- binding: html/body/section/aside
+- binding: html/body/aside
   inspection: DeclaresTag:h3
-- binding: html/body/section/aside
+- binding: html/body/aside
   inspection: DeclaresTag:iframe
-- binding: html/body/section/aside/iframe
+- binding: html/body/aside/iframe
   inspection: DeclaresAttribute:src="https://www.youtube.com/embed/dnfw9e0Mo2w"
