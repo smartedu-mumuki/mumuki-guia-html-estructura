@@ -14,5 +14,7 @@ expectations:
   inspection: DeclaresTag:aside
 - binding: html/body
   inspection: DeclaresTag:footer
-- binding: html/body/footer
+- binding: html/body/footer/p
   inspection: DeclaresTag:a
+- binding: html/body/footer
+  inspection: DeclaresTag:p
