@@ -10,7 +10,7 @@ expectations:
   inspection: DeclaresAttribute:id="ingredientes"
 - binding: html/body/section
   inspection: DeclaresAttribute:id="pasos"
-- binding: html/body/
+- binding: html/body
   inspection: DeclaresTag:aside
 - binding: html/body/aside
   inspection: DeclaresTag:h3
