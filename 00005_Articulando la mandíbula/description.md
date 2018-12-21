@@ -12,7 +12,7 @@ Todas las recetas saladas estarán agrupadas en una `<section>` y todas las rece
 <img src="https://raw.githubusercontent.com/smartedu-mumuki/mumuki-guia-html-estructura/master/images/html_recetario_preview.png" />
 </div>
 
-Pero, ¿en dónde estaría contenida cada receta? En una nueva etiqueta: `<article>`. :relieved:
+Pero, ¿en dónde estaría contenida cada receta? En una nueva etiqueta: `<article>`. :raised_hands:
 
 > Hacé que cada receta quede encerrada en un `<article>`.
 
