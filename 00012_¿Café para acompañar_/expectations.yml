@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: html/body
+  inspection: DeclaresTag:aside
+- binding: html/body/aside
+  inspection: DeclaresTag:img
+- binding: html/body/aside
+  inspection: DeclaresTag:h3
