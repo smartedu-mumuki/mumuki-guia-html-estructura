@@ -11,5 +11,5 @@ Para eso tenemos la etiqueta `<header>` que nos permite agrupar el contenido ini
 </header>
 ```
 
->¡Ahora te toca a vos! Hacé que el `<header>` de nuestra página tenga un encabezado `<h1>` que diga _Panqueques con dulce de leche_ y un párrafo `<p>` _Más clásico que un Boca-River_. Deberá estar dentro del `<body>`.
+>¡Ahora te toca a vos! Hacé que el `<header>` de nuestra página tenga un encabezado `<h1>` que diga _Panqueques con dulce de leche_ y un párrafo `<p>` que diga _Más clásico que un Boca-River_. Deberá estar dentro del `<body>`.
 
