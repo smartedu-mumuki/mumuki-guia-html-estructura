@@ -1,22 +1,32 @@
 ---
 expectations:
-- binding: html/body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body
   inspection: DeclaresTag:nav
-- binding: html/body/nav
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/nav
   inspection: DeclaresTag:ul
-- binding: html/body/nav/ul
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/nav/ul
   inspection: DeclaresTag:li
-- binding: html/body/nav/ul/li/a
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/nav/ul/li/a
   inspection: DeclaresAttribute:href="#descripcion"
-- binding: html/body/nav/ul/li/a
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/nav/ul/li/a
   inspection: DeclaresAttribute:href="#ingredientes"
-- binding: html/body/nav/ul/li/a
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/nav/ul/li/a
   inspection: DeclaresAttribute:href="#pasos"
-- binding: html/body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body
   inspection: DeclaresTag:header
-- binding: html/body/section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/section
   inspection: DeclaresAttribute:id="descripcion"
-- binding: html/body/section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/section
   inspection: DeclaresAttribute:id="ingredientes"
-- binding: html/body/section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/section
   inspection: DeclaresAttribute:id="pasos"

@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: html/body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body
   inspection: DeclaresTag:section
-- binding: html/body/section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/section
   inspection: DeclaresTag:article

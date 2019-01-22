@@ -1,16 +1,23 @@
 ---
 expectations:
-- binding: html/body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body
   inspection: DeclaresTag:section
-- binding: html/body/section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/section
   inspection: DeclaresAttribute:id="descripcion"
-- binding: html/body/section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/section
   inspection: DeclaresAttribute:id="ingredientes"
-- binding: html/body/section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/section
   inspection: DeclaresAttribute:id="pasos"
-- binding: html/body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body
   inspection: DeclaresTag:header
-- binding: html/body/header
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/header
   inspection: DeclaresTag:h1
-- binding: html/body/header
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/header
   inspection: DeclaresTag:p

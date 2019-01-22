@@ -1,14 +1,20 @@
 ---
 expectations:
-- binding: html/body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body
   inspection: DeclaresTag:nav
-- binding: html/body/nav
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/nav
   inspection: DeclaresTag:a
-- binding: html/body/nav/a
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/nav/a
   inspection: DeclaresAttribute:href="#quienes_somos"
-- binding: html/body/nav/a
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/nav/a
   inspection: DeclaresAttribute:href="#historia"
-- binding: html/body/nav/a
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/nav/a
   inspection: DeclaresAttribute:href="#contacto"
-- binding: html/body/nav/a
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/nav/a
   inspection: DeclaresAttribute:href="#iniciar_sesion"
