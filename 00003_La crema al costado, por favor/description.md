@@ -8,7 +8,7 @@ _¿Y ahora quién podrá ayudarnos :scream:? Yooooo, la etiqueta `<aside>`._ :st
 >
 ```hml
 <aside>
-  <h3>¿Le querés agregar crema? ¡Mirá este video!</h3>
+  <h2>¿Le querés agregar crema? ¡Mirá este video!</h2>
   <iframe src="https://www.youtube.com/embed/dnfw9e0Mo2w"></iframe>
 </aside>
 ```
