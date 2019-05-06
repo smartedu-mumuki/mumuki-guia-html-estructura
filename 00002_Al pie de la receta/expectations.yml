@@ -27,3 +27,12 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: html/body/footer
   inspection: DeclaresTag:p
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/aside
+  inspection: DeclaresTag:h2
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/aside
+  inspection: DeclaresTag:iframe
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/aside/iframe
+  inspection: DeclaresAttribute:src="https://www.youtube.com/embed/dnfw9e0Mo2w"
