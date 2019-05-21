@@ -1,4 +1,4 @@
-Ya pusimos por vos los ingredientes y los pasos necesarios de la receta así que ahora enfoquémonos en la descripción de lo que es un rico, sabroso, maravilloso… :flushed: ehmm, queremos decir, enfoquémonos en la descripción de lo que es un panqueque :sweat_smile:. 
+Ya pusimos por vos los ingredientes y los pasos necesarios de la receta así que ahora enfoquémonos en la descripción de lo que es un rico, sabroso, maravilloso… :flushed: ehmm, queremos decir, enfoquémonos en la descripción de lo que es un panqueque. :sweat_smile:
 
 Ya pusimos el contenido dentro de la respectiva sección pero falta una foto, ¿no? :camera: 
 
