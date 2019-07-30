@@ -1,4 +1,4 @@
-En una receta _siempre_ encontramos qué vamos a cocinar :spaghetti:, qué ingredientes vamos a necesitar :tomato: y qué pasos tenemos que seguir para hacerla :page_facing_up:.
+En una receta _siempre_ encontramos qué vamos a cocinar :spaghetti:, qué ingredientes vamos a necesitar :tomato: y qué pasos tenemos que seguir para hacerla. :page_facing_up:
 
 Como la nuestra no va a ser un caso diferente, vamos a separarla en esas secciones.
 Para hacerlo tenemos la etiqueta `<section>` que nos permite agrupar contenido muy relacionado entre sí, es decir, que tenga una misma **semántica**.
