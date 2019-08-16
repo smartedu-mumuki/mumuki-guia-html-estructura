@@ -1,6 +1,6 @@
 ¡Qué rico sería agregarles crema! Pero esta receta es sólo de panqueques con dulce de leche. :pensive:
 
-Igual podríamos decir que esta idea “toca de costado” nuestra receta :smirk:. En otras palabras, no tiene que ver con nuestro contenido principal directamente pero lo acompaña. 
+Igual podríamos decir que esta idea "toca de costado" nuestra receta :smirk:. En otras palabras, no tiene que ver con nuestro contenido principal directamente pero lo acompaña. 
 
 _¿Y ahora quién podrá ayudarnos :scream:? Yooooo, la etiqueta `<aside>`._ :stuck_out_tongue_closed_eyes:
 
