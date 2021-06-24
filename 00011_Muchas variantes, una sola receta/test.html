@@ -11,7 +11,7 @@ it("El segundo link tiene un atributo href='#historia'", () => {
   document.querySelectorAll('a')[1].should.have.attr('href','#historia');
 });
 it("El segundo link dice 'Historia'", () => {
-  document.querySelectorAll('a')[].should.have.trimmed.text("Historia");
+  document.querySelectorAll('a')[1].should.have.trimmed.text("Historia");
 });
 it("El tercer link tiene un atributo href='#contacto'", () => {
   document.querySelectorAll('a')[2].should.have.attr('href','#contacto');
