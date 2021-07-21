@@ -4,7 +4,7 @@
 });
 
 it("El h3 tiene enfasís", () => {
-  document.querySelectorAll('em').should.have.trimmed.text("Cafecito y cositas ricas");
+  document.querySelectorAll('em')[0].should.have.trimmed.text("Cafecito y cositas ricas");
 });
 
 it("Hay una eqtiqueta aside", () => {
