@@ -1,10 +1,18 @@
 /*<output#*//*#output>*/
 /*<tests#*/it("Hay una section con id descripcion", () => {
-  document.getElementById("section descripcion").should.exist;
+  document.getElementById("descripcion").should.exist;
 })
 
 it("Hay una section con id ingredientes", () => {
-  document.getElementById("section ingredientes").should.exist;
+  document.getElementById("ingredientes").should.exist;
+})
+
+it("Hay una section con id ingredientes", () => {
+  document.getElementById("pasos").should.exist;
+})
+
+it("Hay tetiquetas res section", () => {
+  document.getElementsByTagName("section").length.should.eql(3);
 })/*#tests>*/
 /*<options#*/output_ignore_scripts: true
 output_ignore_styles: true/*#options>*/
