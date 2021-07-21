@@ -9,19 +9,19 @@ it("El segundo link tiene un atributo href='#historia'", () => {
   document.querySelectorAll('a')[1].should.have.attr('href','#historia');
 });
 it("El segundo link dice 'Historia'", () => {
-  document.querySelectorAll('a')[0].should.have.trimmed.text("Historia");
+  document.querySelectorAll('a')[1].should.have.trimmed.text("Historia");
 });
 it("El tercer link tiene un atributo href='#contacto'", () => {
   document.querySelectorAll('a')[2].should.have.attr('href','#contacto');
 });
 it("El tercer link dice 'contacto'", () => {
-  document.querySelectorAll('a')[0].should.have.trimmed.text("Contacto");
+  document.querySelectorAll('a')[2].should.have.trimmed.text("Contacto");
 });
 it("El cuarto link tiene un atributo href='#iniciar_sesion'", () => {
   document.querySelectorAll('a')[3].should.have.attr('href','#iniciar_sesion');
 });
 it("El cuarto link dice 'Iniciar Sesión'", () => {
-  document.querySelectorAll('a')[0].should.have.trimmed.text("Iniciar Sesión");
+  document.querySelectorAll('a')[3].should.have.trimmed.text("Iniciar Sesión");
 });/*#tests>*/
 /*<options#*/output_ignore_scripts: true
 output_ignore_styles: true/*#options>*/
