@@ -1,10 +1,10 @@
 /*<output#*//*#output>*/
 /*<tests#*/it("El h3 dice Cafecito y cositas ricas", () => {
-  document.querySelectorAll('h3').should.have.trimmed.text("Cafecito y cositas ricas");
+  document.querySelectorAll('h3')[0].should.have.trimmed.text("Cafecito y cositas ricas");
 });
 
 it("El h3 tiene enfasís", () => {
-  document.querySelectorAll('strong').should.have.trimmed.text("Cafecito y cositas ricas");
+  document.querySelectorAll('em').should.have.trimmed.text("Cafecito y cositas ricas");
 });
 
 it("Hay una eqtiqueta aside", () => {
