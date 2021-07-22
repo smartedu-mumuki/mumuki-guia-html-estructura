@@ -2,28 +2,4 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: html/body
-  inspection: DeclaresTag:header
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body
-  inspection: DeclaresTag:nav
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/section
-  inspection: DeclaresAttribute:id="descripcion"
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/section
-  inspection: DeclaresAttribute:id="ingredientes"
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/section
-  inspection: DeclaresAttribute:id="pasos"
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body
   inspection: DeclaresTag:aside
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/aside
-  inspection: DeclaresTag:h2
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/aside
-  inspection: DeclaresTag:iframe
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/aside/iframe
-  inspection: DeclaresAttribute:src="https://www.youtube.com/embed/dnfw9e0Mo2w"
