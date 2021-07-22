@@ -1,6 +1,6 @@
 /*<output#*//*#output>*/
 /*<tests#*/it("El h2 dice ¿Le querés agregar crema? ¡Mirá este video!", () => {
-  document.querySelectorAll('h2').should.have.trimmed.text("¿Le querés agregar crema? ¡Mirá este video!");
+  document.querySelectorAll('h2')[3].should.have.trimmed.text("¿Le querés agregar crema? ¡Mirá este video!");
 });
 
 it("El iframe tiene un atributo src con el link correspondiente", () => {
