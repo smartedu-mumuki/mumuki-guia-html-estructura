@@ -1,32 +1,11 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body
-  inspection: DeclaresTag:nav
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: html/body/nav
   inspection: DeclaresTag:ul
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: html/body/nav/ul
   inspection: DeclaresTag:li
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/nav/ul/li/a
-  inspection: DeclaresAttribute:href="#descripcion"
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/nav/ul/li/a
-  inspection: DeclaresAttribute:href="#ingredientes"
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/nav/ul/li/a
-  inspection: DeclaresAttribute:href="#pasos"
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: html/body
   inspection: DeclaresTag:header
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/section
-  inspection: DeclaresAttribute:id="descripcion"
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/section
-  inspection: DeclaresAttribute:id="ingredientes"
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/section
-  inspection: DeclaresAttribute:id="pasos"
